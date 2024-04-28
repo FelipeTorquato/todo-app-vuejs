@@ -1,6 +1,6 @@
 # todo-app
 
-This template should help get you started developing with Vue 3 in Vite.
+Este é um repositório de um Todo App utilizando Vue.js.
 
 ## Recommended IDE Setup
 
